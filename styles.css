@@ -1,0 +1,76 @@
+body{
+    background-color: #FBFFFE;
+  }
+  
+  h1{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3cnBueP-I77hd8Oum574s87Kj564bhCjyhzk2ou88nxynJmaVw');
+  color: #FAFAFA;
+  }
+  
+  h3{
+    background-color: #A2B6DB;
+  }
+  
+  nav {
+    background-color:#BFFFF1;
+      height:40px;
+    text-shadow: 1px 1px #5DD9C1;
+    line-height:40px;
+    text-align:center;
+  }
+  
+  nav a{
+    text-decoration:none;
+    width: 30%;
+    background-color:#A2B6DB;
+    display: inline-block;
+    font-family:'Amatic SC',cursive;
+    font-size: 25px;
+    color:white;
+  }
+  
+  nav a:hover{
+    background-color:white;
+    color: #A2B6DB;
+  }
+  
+  .flex-container{
+    display:flex;
+    background-color:#BFFFF1;
+    border-radius:0px;
+  }
+  
+  .firstbox{
+    background-color:#A2B6DB;
+    text-align:center;
+    width:45%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    Margin:30px;
+  }
+  
+  .secondbox{
+    background-color:#A2B6DB;
+    text-align:center;
+    width:45%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    Margin:30px;
+  }
+  .thirdbox{
+    background-color:#A2B6DB;
+    text-align:center;
+    width:45%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    Margin:30px;
+  }
+  .fifthbox{
+    background-color:#BFFFF1;
+    text-align:center;
+    width:45%;
+    align:center;
+  }

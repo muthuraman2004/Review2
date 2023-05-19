@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: black;
+  }
+  
+  
+  
+  h1 {font-size: 36px; font-family: Arial; padding: 10px;}
+  
+    h2 {font-size: 26px;
+      font-family: Times New Roman; padding: 16px;
+    }
+  
+    p {
+      font-size: 20px;
+      font-family: Arial; padding: 10px; margin-left: 10px; margin-right: 10px; 
+    }
+  h6 {font-size:11px; font-family: Arial;}
+  
+  
